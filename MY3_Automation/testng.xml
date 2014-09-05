@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Sample Suite">
+  <test name="Sample test in FF">
+       <parameter name="browser" value="firefox" />
+    <classes>
+<!--       <class name="test.SampleTest" /> -->
+      <class name="test.Test_Tre" /> 
+    </classes>
+  </test>
+<!--    <test name="Sample test in IE "> -->
+<!--        <parameter name="browser" value="IE" /> -->
+<!--     <classes> -->
+<!--       <class name="test.SampleTest" /> --> 
+<!--       <class name="test.Test_Tre" /> -->
+<!--     </classes> -->
+<!--   </test> -->
+</suite>
